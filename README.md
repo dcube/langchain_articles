@@ -8,3 +8,5 @@ Attention il est nécéssaire de fournir à la chaîne une documentation de l'AP
 
 ## Article 4 - Faire de super combinations de chaînes avec LangChain
 Exemple de code pour combiner différentes chaînes à partir d'une même application.
+
+**Plus de détails sur les articles de notre [blog](blog.dcube.fr) !**
